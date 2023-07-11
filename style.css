@@ -48,7 +48,7 @@ header{
     display: flex; /*alinha os itens na horizontal*/
     text-align: center; /*alinha o texto ao centro*/
     font-family: Fira code; /*fonte do texto*/
-    height: 100vb; /*altura da div*/
+    height: 100vh; /*altura da div*/
 
 }
 .links{
