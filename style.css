@@ -194,6 +194,7 @@ header{
     border-style: none;
     margin-bottom: 20px;
     text-align: left; /*alinha o texto a esquerda*/
+    word-break: break-word;
     color: #000; /*cor do texto*/
     font-size: 20px; /*tamanho da fonte*/
     font-family: Fira code; /*fonte do texto*/
